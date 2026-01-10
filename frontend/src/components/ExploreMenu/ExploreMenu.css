@@ -47,3 +47,10 @@
  font-size: max(1.3vw,16px);
  cursor: pointer;
 }
+
+.explore-menu hr{
+    margin: 10px 0px;
+    border: none;
+    height: 2px;
+    background-color: #8a8686;
+}
